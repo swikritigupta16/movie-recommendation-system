@@ -1,0 +1,7 @@
+"*.pkl" 
+
+similarity.pkl
+movie_list.pkl
+*.pkl
+__pycache__/
+.env
